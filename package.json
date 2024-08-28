@@ -1,0 +1,22 @@
+{
+  "name": "infovis2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^1.0.2",
+    "d3": "^7.9.0",
+    "d3-cloud": "^1.2.7"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "vite": "^5.4.2"
+  }
+}
